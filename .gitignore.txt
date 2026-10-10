@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local data files
+data/raw/
